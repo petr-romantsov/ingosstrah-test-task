@@ -1,0 +1,1 @@
+(()=>{"use strict";var e=document.getElementById("root");new(function(){function t(e){var t=this;this.element=document.createElement("div"),e.forEach((function(e){return t.element.classList.add(e)}))}return t.prototype.uppendToRoot=function(){e.append(this.element)},t}())(["container"]).uppendToRoot()})();

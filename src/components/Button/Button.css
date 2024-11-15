@@ -1,0 +1,17 @@
+.button {
+  padding: 10px 40px;
+  margin: 0;
+  border: none;
+  border-radius: 5px;
+  background-color: var(--blue-color);
+  color: var(--white-color);
+  transition: background-color 0.2s ease-in-out;
+}
+
+.button:hover {
+  background-color: var(--orange-color);
+}
+
+.button:active {
+  background-color: #e0641a;
+}

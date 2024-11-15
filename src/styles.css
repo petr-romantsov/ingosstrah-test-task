@@ -1,0 +1,18 @@
+:root {
+  --blue-color: #1948ef;
+  --orange-color: #ee6d21;
+  --white-color: #ffffff;
+}
+
+.root {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0 auto;
+  padding: 10px;
+  background-color: #f0f0f0;
+}
