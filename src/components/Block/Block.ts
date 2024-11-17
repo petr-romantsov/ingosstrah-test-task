@@ -7,5 +7,3 @@ export class Block extends Element {
     this.element.textContent = String(num);
   }
 }
-
-export const block = new Block('div', ['block'], 1);

@@ -1,5 +1,5 @@
 .block {
-  display: flex;
+  display: none;
   align-items: center;
   justify-content: center;
   margin-bottom: 1px;
@@ -8,4 +8,12 @@
   background-color: var(--orange-color);
   border-radius: 10px;
   color: var(--white-color);
+}
+
+.visible {
+  display: flex;
+}
+
+.hidden {
+  display: none;
 }

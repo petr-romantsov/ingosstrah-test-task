@@ -8,6 +8,6 @@ export class Element {
   }
 
   appendToParent(parent: HTMLElement): void {
-    parent.appendChild(this.element);
+    parent.append(this.element);
   }
 }
