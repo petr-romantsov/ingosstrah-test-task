@@ -28,4 +28,4 @@ npm run build
 
 ### Link
 
-Link to view the project:
+Link to view the project: https://petr-romantsov.github.io/ingosstrah-test-task/
