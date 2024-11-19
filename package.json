@@ -1,5 +1,6 @@
 {
   "name": "ingosstrah-test-task",
+  "homepage": "https://petr-romantsov.github.io/ingosstrah-test-task",
   "version": "1.0.0",
   "description": "",
   "private": "true",
@@ -21,5 +22,8 @@
     "webpack": "^5.96.1",
     "webpack-cli": "^5.1.4",
     "webpack-dev-server": "^5.1.0"
+  },
+  "dependencies": {
+    "gh-pages": "^6.2.0"
   }
 }
